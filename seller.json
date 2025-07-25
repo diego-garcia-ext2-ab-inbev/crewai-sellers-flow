@@ -1,0 +1,3222 @@
+[
+    {
+        "seller_id": 121133,
+        "orders_managed": 546,
+        "canceled_by_seller": 3,
+        "canceled_by_consumer": 14,
+        "canceled_on_delivery": 9,
+        "expired": 2,
+        "rejected": 11,
+        "fill_rate": 92.9,
+        "status": "NORMAL",
+        "message": "Oi Parceiro, alguns pedidos da sua loja estão sendo cancelados por terem sido modificados. Pensando em melhorar cada vez mais sua operação e para não perder pedidos, ative no Seu.Zé apenas os itens que você realmente tem em estoque e em quantidade suficiente. Mantenha o estoque SEMPRE atualizado ao longo da operação. Confira a lista de produtos do seu portfólio ideal no Seu.Zé em: 'Estoque de Produtos' > 'Portfólio Ideal'. Atenção ao Domingo as 17h. Cancelamento é FALTA GRAVE.",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 17,
+                "quantity": 2
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-03",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-06-30",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 11,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 16,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 19,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 36865,
+        "orders_managed": 649,
+        "canceled_by_seller": 6,
+        "canceled_by_consumer": 8,
+        "canceled_on_delivery": 7,
+        "expired": 1,
+        "rejected": 5,
+        "fill_rate": 95.9,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 95.90% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-06-30",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 14,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 22,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 116411,
+        "orders_managed": 1099,
+        "canceled_by_seller": 1,
+        "canceled_by_consumer": 19,
+        "canceled_on_delivery": 14,
+        "expired": 0,
+        "rejected": 1,
+        "fill_rate": 96.9,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 96.90% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-01",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-02",
+                "hour": 16,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-02",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-03",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-03",
+                "hour": 22,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 1,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 10,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 7369,
+        "orders_managed": 477,
+        "canceled_by_seller": 8,
+        "canceled_by_consumer": 10,
+        "canceled_on_delivery": 3,
+        "expired": 1,
+        "rejected": 2,
+        "fill_rate": 95.0,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 95.00% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-06-30",
+                "hour": 17,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-03",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 14,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 5997,
+        "orders_managed": 540,
+        "canceled_by_seller": 0,
+        "canceled_by_consumer": 5,
+        "canceled_on_delivery": 3,
+        "expired": 0,
+        "rejected": 0,
+        "fill_rate": 98.6,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 98.60% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-06-30",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-02",
+                "hour": 14,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 17,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 12653,
+        "orders_managed": 591,
+        "canceled_by_seller": 16,
+        "canceled_by_consumer": 5,
+        "canceled_on_delivery": 6,
+        "expired": 3,
+        "rejected": 10,
+        "fill_rate": 93.3,
+        "status": "NORMAL",
+        "message": "Oi Parceiro, alguns pedidos da sua loja estão sendo cancelados com a justificativa de “Falta de Produtos”. Pensando em melhorar cada vez mais sua operação e para não perder pedidos ative no Seu.Zé apenas os itens que você realmente tem em estoque e em quantidade suficiente. Mantenha o estoque SEMPRE atualizado ao longo da operação. Confira a lista de produtos do seu portfólio ideal no Seu.Zé em: 'Estoque de Produtos' > 'Portfólio Ideal. Atenção ao Sábado as 21h. Cancelamento é FALTA GRAVE.",
+        "reasons_cancel": [
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 21,
+                "quantity": 2
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-03",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 23,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 85283,
+        "orders_managed": 113,
+        "canceled_by_seller": 1,
+        "canceled_by_consumer": 5,
+        "canceled_on_delivery": 1,
+        "expired": 1,
+        "rejected": 1,
+        "fill_rate": 92.1,
+        "status": "NORMAL",
+        "message": "Oi Parceiro, alguns pedidos da sua loja estão sendo cancelados por terem sido modificados. Pensando em melhorar cada vez mais sua operação e para não perder pedidos, ative no Seu.Zé apenas os itens que você realmente tem em estoque e em quantidade suficiente. Mantenha o estoque SEMPRE atualizado ao longo da operação. Confira a lista de produtos do seu portfólio ideal no Seu.Zé em: 'Estoque de Produtos' > 'Portfólio Ideal'.",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-03",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 16,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 6737,
+        "orders_managed": 145,
+        "canceled_by_seller": 1,
+        "canceled_by_consumer": 4,
+        "canceled_on_delivery": 2,
+        "expired": 0,
+        "rejected": 1,
+        "fill_rate": 94.5,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 94.50% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos! Atenção a Terça-feira as 16h. Cancelamento é FALTA GRAVE.",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-01",
+                "hour": 16,
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "seller_id": 54003,
+        "orders_managed": 2361,
+        "canceled_by_seller": 18,
+        "canceled_by_consumer": 31,
+        "canceled_on_delivery": 39,
+        "expired": 2,
+        "rejected": 2,
+        "fill_rate": 96.2,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 96.20% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos! Atenção ao Domingo as 15h e ao Sábado as 17h. Cancelamento é FALTA GRAVE.",
+        "reasons_cancel": [
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-06",
+                "hour": 15,
+                "quantity": 2
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-05",
+                "hour": 17,
+                "quantity": 2
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-06-30",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-01",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-06-30",
+                "hour": 1,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-06-30",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-04",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-01",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-05",
+                "hour": 15,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-05",
+                "hour": 0,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-05",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-05",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-06",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-06",
+                "hour": 20,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 27125,
+        "orders_managed": 302,
+        "canceled_by_seller": 0,
+        "canceled_by_consumer": 5,
+        "canceled_on_delivery": 6,
+        "expired": 0,
+        "rejected": 0,
+        "fill_rate": 96.4,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 96.40% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_WRONG_ADDRESS",
+                "date": "2025-07-01",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_WRONG_ADDRESS",
+                "date": "2025-07-05",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_WRONG_ADDRESS",
+                "date": "2025-07-06",
+                "hour": 12,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 26573,
+        "orders_managed": 854,
+        "canceled_by_seller": 0,
+        "canceled_by_consumer": 14,
+        "canceled_on_delivery": 14,
+        "expired": 3,
+        "rejected": 1,
+        "fill_rate": 96.3,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 96.30% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_WRONG_ADDRESS",
+                "date": "2025-06-30",
+                "hour": 13,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_WRONG_ADDRESS",
+                "date": "2025-07-01",
+                "hour": 12,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_WRONG_ADDRESS",
+                "date": "2025-07-04",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_WRONG_ADDRESS",
+                "date": "2025-07-05",
+                "hour": 11,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_WRONG_ADDRESS",
+                "date": "2025-07-05",
+                "hour": 22,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_WRONG_ADDRESS",
+                "date": "2025-07-05",
+                "hour": 23,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_WRONG_ADDRESS",
+                "date": "2025-07-06",
+                "hour": 12,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_WRONG_ADDRESS",
+                "date": "2025-07-06",
+                "hour": 16,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_WRONG_ADDRESS",
+                "date": "2025-07-06",
+                "hour": 21,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 25769,
+        "orders_managed": 344,
+        "canceled_by_seller": 5,
+        "canceled_by_consumer": 9,
+        "canceled_on_delivery": 5,
+        "expired": 2,
+        "rejected": 22,
+        "fill_rate": 87.5,
+        "status": "CRITICAL",
+        "message": "Muitos pedidos da sua loja estão sendo rejeitados com a justificativa de “Suspeita de Fraude”. Entre em contato com seu supervisor para ajustar esse ponto Atenção a Quarta-feira as 11h. Cancelamento é FALTA GRAVE.",
+        "reasons_cancel": [
+            {
+                "type": "PDV_REJECTED",
+                "reason": "SUSPECT OF FRAUD",
+                "date": "2025-07-02",
+                "hour": 11,
+                "quantity": 2
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "SUSPECT OF FRAUD",
+                "date": "2025-06-30",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "SUSPECT OF FRAUD",
+                "date": "2025-07-03",
+                "hour": 16,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "SUSPECT OF FRAUD",
+                "date": "2025-07-04",
+                "hour": 11,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "SUSPECT OF FRAUD",
+                "date": "2025-07-04",
+                "hour": 17,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "SUSPECT OF FRAUD",
+                "date": "2025-07-04",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "SUSPECT OF FRAUD",
+                "date": "2025-07-04",
+                "hour": 22,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "SUSPECT OF FRAUD",
+                "date": "2025-07-05",
+                "hour": 17,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "SUSPECT OF FRAUD",
+                "date": "2025-07-05",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "SUSPECT OF FRAUD",
+                "date": "2025-07-06",
+                "hour": 13,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "SUSPECT OF FRAUD",
+                "date": "2025-07-06",
+                "hour": 14,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "SUSPECT OF FRAUD",
+                "date": "2025-07-06",
+                "hour": 15,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "SUSPECT OF FRAUD",
+                "date": "2025-07-06",
+                "hour": 17,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "SUSPECT OF FRAUD",
+                "date": "2025-07-06",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "SUSPECT OF FRAUD",
+                "date": "2025-07-06",
+                "hour": 21,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 72597,
+        "orders_managed": 185,
+        "canceled_by_seller": 2,
+        "canceled_by_consumer": 3,
+        "canceled_on_delivery": 1,
+        "expired": 1,
+        "rejected": 5,
+        "fill_rate": 93.6,
+        "status": "NORMAL",
+        "message": "Oi Parceiro, alguns pedidos da sua loja estão sendo rejeitados com a justificativa de “Falta de Produtos”. Pensando em melhorar cada vez mais sua operação e para não perder pedidos, ative no Seu.Zé apenas os itens que você realmente tem em estoque e em quantidade suficiente. Mantenha o estoque SEMPRE atualizado ao longo da operação. Confira a lista de produtos do seu portfólio ideal no Seu.Zé em: 'Estoque de Produtos' > 'Portfólio Ideal'. Atenção ao Domingo as 00h. Cancelamento é FALTA GRAVE.",
+        "reasons_cancel": [
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 0,
+                "quantity": 2
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 1,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 22,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 106112,
+        "orders_managed": 301,
+        "canceled_by_seller": 20,
+        "canceled_by_consumer": 5,
+        "canceled_on_delivery": 5,
+        "expired": 2,
+        "rejected": 3,
+        "fill_rate": 88.4,
+        "status": "CRITICAL",
+        "message": "Muitos pedidos da sua loja estão sendo cancelados com a justificativa de “Falta de Produtos”. Ative no Seu.Zé apenas os itens que você realmente tem em estoque e em quantidade suficiente. Mantenha o estoque SEMPRE atualizado ao longo da operação. Confira a lista de produtos do seu portfólio ideal no Seu.Zé em: 'Estoque de Produtos' > 'Portfólio Ideal. Atenção ao Sábado as 18h. Cancelamento é FALTA GRAVE.",
+        "reasons_cancel": [
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 18,
+                "quantity": 2
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-06-30",
+                "hour": 15,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-06-30",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-06-30",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-01",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-02",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-02",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-01",
+                "hour": 10,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-03",
+                "hour": 13,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-03",
+                "hour": 17,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-04",
+                "hour": 14,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-03",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-04",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 12,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 21,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 103344,
+        "orders_managed": 220,
+        "canceled_by_seller": 12,
+        "canceled_by_consumer": 6,
+        "canceled_on_delivery": 2,
+        "expired": 0,
+        "rejected": 2,
+        "fill_rate": 90.0,
+        "status": "CRITICAL",
+        "message": "Muitos pedidos da sua loja estão sendo cancelados com a justificativa de “Cliente Cancelou”. Prepare o seu time para evitar essas situações, ative no Seu.Zé apenas os itens que você realmente tem em estoque e se organize sua equipe de motocas para evitar atrasos. Atenção a Quarta-feira as 23h. Cancelamento é FALTA GRAVE.",
+        "reasons_cancel": [
+            {
+                "type": "PDV_CANCEL",
+                "reason": "USER CANCELLED",
+                "date": "2025-07-02",
+                "hour": 23,
+                "quantity": 2
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "USER CANCELLED",
+                "date": "2025-07-02",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "USER CANCELLED",
+                "date": "2025-07-03",
+                "hour": 16,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "USER CANCELLED",
+                "date": "2025-07-04",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "USER CANCELLED",
+                "date": "2025-07-04",
+                "hour": 22,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "USER CANCELLED",
+                "date": "2025-07-06",
+                "hour": 20,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 36918,
+        "orders_managed": 987,
+        "canceled_by_seller": 4,
+        "canceled_by_consumer": 15,
+        "canceled_on_delivery": 15,
+        "expired": 0,
+        "rejected": 0,
+        "fill_rate": 96.6,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 96.60% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-06-30",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-04",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-05",
+                "hour": 16,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-05",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-05",
+                "hour": 22,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-06",
+                "hour": 12,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-06",
+                "hour": 16,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-06",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-06",
+                "hour": 21,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 68238,
+        "orders_managed": 1220,
+        "canceled_by_seller": 14,
+        "canceled_by_consumer": 23,
+        "canceled_on_delivery": 17,
+        "expired": 1,
+        "rejected": 1,
+        "fill_rate": 95.5,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 95.50% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos! Atenção a Quarta-feira as 19h e a Quarta-feira as 22h e a Quinta-feira as 14h e ao Domingo as 20h. Cancelamento é FALTA GRAVE.",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-02",
+                "hour": 19,
+                "quantity": 2
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-02",
+                "hour": 22,
+                "quantity": 2
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-03",
+                "hour": 14,
+                "quantity": 2
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 20,
+                "quantity": 2
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-01",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 16,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 22,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 15,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 17,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 5347,
+        "orders_managed": 202,
+        "canceled_by_seller": 8,
+        "canceled_by_consumer": 8,
+        "canceled_on_delivery": 17,
+        "expired": 0,
+        "rejected": 11,
+        "fill_rate": 78.3,
+        "status": "CRITICAL",
+        "message": "Muitos pedidos da sua loja estão sendo cancelados com a justificativa de “Entregador cancelou”. Oriente apenas a cancelar após tentativa de contato. 8.50% dos pedidos estão sendo cancelados distante da casa do consumidor. Atenção ao Domingo as 21h. Cancelamento é FALTA GRAVE.",
+        "reasons_cancel": [
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "MALFUNCTION_VEHICLE",
+                "date": "2025-07-06",
+                "hour": 21,
+                "quantity": 4
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "MALFUNCTION_VEHICLE",
+                "date": "2025-07-06",
+                "hour": 22,
+                "quantity": 3
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "MALFUNCTION_VEHICLE",
+                "date": "2025-07-05",
+                "hour": 23,
+                "quantity": 2
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "MALFUNCTION_VEHICLE",
+                "date": "2025-07-05",
+                "hour": 22,
+                "quantity": 2
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "MALFUNCTION_VEHICLE",
+                "date": "2025-06-30",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "MALFUNCTION_VEHICLE",
+                "date": "2025-07-02",
+                "hour": 23,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "MALFUNCTION_VEHICLE",
+                "date": "2025-07-04",
+                "hour": 14,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "MALFUNCTION_VEHICLE",
+                "date": "2025-07-06",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "MALFUNCTION_VEHICLE",
+                "date": "2025-07-06",
+                "hour": 16,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 91366,
+        "orders_managed": 165,
+        "canceled_by_seller": 1,
+        "canceled_by_consumer": 0,
+        "canceled_on_delivery": 2,
+        "expired": 0,
+        "rejected": 0,
+        "fill_rate": 98.2,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 98.20% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_NOT_ANSWERED",
+                "date": "2025-07-05",
+                "hour": 13,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 3683,
+        "orders_managed": 536,
+        "canceled_by_seller": 0,
+        "canceled_by_consumer": 10,
+        "canceled_on_delivery": 18,
+        "expired": 4,
+        "rejected": 0,
+        "fill_rate": 94.1,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 94.10% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos! Atenção a Quinta-feira as 23h. Cancelamento é FALTA GRAVE.",
+        "reasons_cancel": [
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-03",
+                "hour": 23,
+                "quantity": 2
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-02",
+                "hour": 11,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-01",
+                "hour": 22,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-02",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-05",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-05",
+                "hour": 23,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-06",
+                "hour": 22,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 14898,
+        "orders_managed": 382,
+        "canceled_by_seller": 2,
+        "canceled_by_consumer": 1,
+        "canceled_on_delivery": 6,
+        "expired": 0,
+        "rejected": 0,
+        "fill_rate": 97.7,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 97.70% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_NOT_ANSWERED",
+                "date": "2025-07-04",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_NOT_ANSWERED",
+                "date": "2025-07-05",
+                "hour": 21,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 36194,
+        "orders_managed": 3313,
+        "canceled_by_seller": 21,
+        "canceled_by_consumer": 69,
+        "canceled_on_delivery": 41,
+        "expired": 9,
+        "rejected": 8,
+        "fill_rate": 95.6,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 95.60% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos! Atenção a Sexta-feira as 20h e ao Domingo as 14h. Cancelamento é FALTA GRAVE.",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 20,
+                "quantity": 3
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 14,
+                "quantity": 3
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 22,
+                "quantity": 2
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 16,
+                "quantity": 2
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 0,
+                "quantity": 2
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 19,
+                "quantity": 2
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 21,
+                "quantity": 2
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-01",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-01",
+                "hour": 22,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-01",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-06-30",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-01",
+                "hour": 17,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-06-30",
+                "hour": 16,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-06-30",
+                "hour": 17,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 14,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-03",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 10,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-02",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 17,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 13,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 1,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 23,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 17,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 15,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 23,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 108630,
+        "orders_managed": 14,
+        "canceled_by_seller": 2,
+        "canceled_by_consumer": 0,
+        "canceled_on_delivery": 1,
+        "expired": 0,
+        "rejected": 0,
+        "fill_rate": 78.6,
+        "status": "CRITICAL",
+        "message": "Muitos pedidos da sua loja estão sendo cancelados com a justificativa de “Falta de Produtos”. Ative no Seu.Zé apenas os itens que você realmente tem em estoque e em quantidade suficiente. Mantenha o estoque SEMPRE atualizado ao longo da operação. Confira a lista de produtos do seu portfólio ideal no Seu.Zé em: 'Estoque de Produtos' > 'Portfólio Ideal.",
+        "reasons_cancel": [
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-04",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 20,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 6759,
+        "orders_managed": 197,
+        "canceled_by_seller": 2,
+        "canceled_by_consumer": 4,
+        "canceled_on_delivery": 3,
+        "expired": 0,
+        "rejected": 13,
+        "fill_rate": 88.9,
+        "status": "CRITICAL",
+        "message": "Muitos pedidos da sua loja estão sendo rejeitados com a justificativa de “Falta de Produtos”. Ative no Seu.Zé apenas os itens que você realmente tem em estoque e em quantidade suficiente. Mantenha o estoque SEMPRE atualizado ao longo da operação. Confira a lista de produtos do seu portfólio ideal no Seu.Zé em: 'Estoque de Produtos' > 'Portfólio Ideal'. Atenção ao Domingo as 00h e ao Sábado as 20h e ao Domingo as 21h. Cancelamento é FALTA GRAVE.",
+        "reasons_cancel": [
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 0,
+                "quantity": 2
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 20,
+                "quantity": 2
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 21,
+                "quantity": 2
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-06-30",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-06-30",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-07-04",
+                "hour": 10,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 11,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-07-04",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 23,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 18,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 6462,
+        "orders_managed": 484,
+        "canceled_by_seller": 14,
+        "canceled_by_consumer": 11,
+        "canceled_on_delivery": 12,
+        "expired": 1,
+        "rejected": 9,
+        "fill_rate": 90.3,
+        "status": "ALERT",
+        "message": "Muitos pedidos da sua loja estão sendo cancelados com a justificativa de “Falta de Produtos”. Ative no Seu.Zé apenas os itens que você realmente tem em estoque e em quantidade suficiente. Mantenha o estoque SEMPRE atualizado ao longo da operação. Confira a lista de produtos do seu portfólio ideal no Seu.Zé em: 'Estoque de Produtos' > 'Portfólio Ideal.",
+        "reasons_cancel": [
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-01",
+                "hour": 22,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 12,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 22,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 72250,
+        "orders_managed": 279,
+        "canceled_by_seller": 1,
+        "canceled_by_consumer": 6,
+        "canceled_on_delivery": 2,
+        "expired": 0,
+        "rejected": 0,
+        "fill_rate": 96.8,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 96.80% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 16,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 18,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 2738,
+        "orders_managed": 636,
+        "canceled_by_seller": 7,
+        "canceled_by_consumer": 7,
+        "canceled_on_delivery": 10,
+        "expired": 0,
+        "rejected": 5,
+        "fill_rate": 95.5,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 95.50% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_NOT_ANSWERED",
+                "date": "2025-07-02",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_NOT_ANSWERED",
+                "date": "2025-07-03",
+                "hour": 17,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_NOT_ANSWERED",
+                "date": "2025-07-04",
+                "hour": 12,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_NOT_ANSWERED",
+                "date": "2025-07-05",
+                "hour": 0,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_NOT_ANSWERED",
+                "date": "2025-07-06",
+                "hour": 0,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_NOT_ANSWERED",
+                "date": "2025-07-06",
+                "hour": 12,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 90540,
+        "orders_managed": 577,
+        "canceled_by_seller": 2,
+        "canceled_by_consumer": 6,
+        "canceled_on_delivery": 3,
+        "expired": 0,
+        "rejected": 0,
+        "fill_rate": 98.1,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 98.10% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "LONG ETA",
+                "date": "2025-07-05",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "LONG ETA",
+                "date": "2025-07-06",
+                "hour": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 25328,
+        "orders_managed": 244,
+        "canceled_by_seller": 1,
+        "canceled_by_consumer": 4,
+        "canceled_on_delivery": 3,
+        "expired": 0,
+        "rejected": 0,
+        "fill_rate": 96.8,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 96.80% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_WRONG_ADDRESS",
+                "date": "2025-07-01",
+                "hour": 12,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_WRONG_ADDRESS",
+                "date": "2025-07-02",
+                "hour": 17,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_WRONG_ADDRESS",
+                "date": "2025-07-05",
+                "hour": 22,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 52151,
+        "orders_managed": 557,
+        "canceled_by_seller": 1,
+        "canceled_by_consumer": 9,
+        "canceled_on_delivery": 6,
+        "expired": 1,
+        "rejected": 0,
+        "fill_rate": 97.0,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 97.00% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-02",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 10,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 13,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 19470,
+        "orders_managed": 311,
+        "canceled_by_seller": 0,
+        "canceled_by_consumer": 5,
+        "canceled_on_delivery": 1,
+        "expired": 0,
+        "rejected": 0,
+        "fill_rate": 98.1,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 98.10% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-06-30",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 19906,
+        "orders_managed": 575,
+        "canceled_by_seller": 13,
+        "canceled_by_consumer": 12,
+        "canceled_on_delivery": 8,
+        "expired": 7,
+        "rejected": 1,
+        "fill_rate": 92.9,
+        "status": "NORMAL",
+        "message": "Oi Parceiro, alguns pedidos da sua loja estão sendo cancelados com a justificativa de “Cliente Não Encontrado”. Pensando em melhorar cada vez mais sua operação e para não perder pedidos, prepare o seu time para evitar esses cancelamentos, oriente apenas a cancelar após tentativa de contato.",
+        "reasons_cancel": [
+            {
+                "type": "PDV_CANCEL",
+                "reason": "USER NOT FOUND",
+                "date": "2025-06-30",
+                "hour": 13,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "USER NOT FOUND",
+                "date": "2025-07-01",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "USER NOT FOUND",
+                "date": "2025-07-05",
+                "hour": 13,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "USER NOT FOUND",
+                "date": "2025-07-05",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "USER NOT FOUND",
+                "date": "2025-07-05",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "USER NOT FOUND",
+                "date": "2025-07-05",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "USER NOT FOUND",
+                "date": "2025-07-06",
+                "hour": 20,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 60009,
+        "orders_managed": 746,
+        "canceled_by_seller": 4,
+        "canceled_by_consumer": 9,
+        "canceled_on_delivery": 7,
+        "expired": 1,
+        "rejected": 11,
+        "fill_rate": 95.8,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 95.80% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-07-02",
+                "hour": 12,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-07-04",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 14,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 15,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 16,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 18,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 32319,
+        "orders_managed": 285,
+        "canceled_by_seller": 5,
+        "canceled_by_consumer": 3,
+        "canceled_on_delivery": 4,
+        "expired": 3,
+        "rejected": 0,
+        "fill_rate": 94.8,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 94.80% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "PDV_CANCEL",
+                "reason": "USER CANCELLED",
+                "date": "2025-07-05",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "USER CANCELLED",
+                "date": "2025-07-05",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "USER CANCELLED",
+                "date": "2025-07-06",
+                "hour": 15,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 6033,
+        "orders_managed": 497,
+        "canceled_by_seller": 3,
+        "canceled_by_consumer": 11,
+        "canceled_on_delivery": 10,
+        "expired": 0,
+        "rejected": 2,
+        "fill_rate": 94.8,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 94.80% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos! Atenção ao Sábado as 17h. Cancelamento é FALTA GRAVE.",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 17,
+                "quantity": 2
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-01",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 15,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 17,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 25134,
+        "orders_managed": 974,
+        "canceled_by_seller": 6,
+        "canceled_by_consumer": 16,
+        "canceled_on_delivery": 7,
+        "expired": 5,
+        "rejected": 0,
+        "fill_rate": 96.6,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 96.60% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-01",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 23,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 12,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 14,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 15,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 22,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 23,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 14,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 16,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 95994,
+        "orders_managed": 520,
+        "canceled_by_seller": 2,
+        "canceled_by_consumer": 5,
+        "canceled_on_delivery": 2,
+        "expired": 0,
+        "rejected": 0,
+        "fill_rate": 98.3,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 98.30% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-03",
+                "hour": 22,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 23,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 108625,
+        "orders_managed": 14,
+        "canceled_by_seller": 1,
+        "canceled_by_consumer": 1,
+        "canceled_on_delivery": 0,
+        "expired": 0,
+        "rejected": 0,
+        "fill_rate": 85.8,
+        "status": "CRITICAL",
+        "message": "Muitos pedidos da sua loja estão sendo cancelados com a justificativa de “Outros”. Prepare o seu time para evitar essas situações, e peça para serem mais assertivos com os motivos. Caso algum motivo continue se repetindo, entre em contato com o seu supervisor para explicar a situação.",
+        "reasons_cancel": [
+            {
+                "type": "PDV_CANCEL",
+                "reason": "OTHER",
+                "date": "2025-07-02",
+                "hour": 12,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 53590,
+        "orders_managed": 305,
+        "canceled_by_seller": 2,
+        "canceled_by_consumer": 2,
+        "canceled_on_delivery": 3,
+        "expired": 0,
+        "rejected": 1,
+        "fill_rate": 97.4,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 97.40% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_NOT_ANSWERED",
+                "date": "2025-07-05",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_NOT_ANSWERED",
+                "date": "2025-07-05",
+                "hour": 20,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 34923,
+        "orders_managed": 411,
+        "canceled_by_seller": 0,
+        "canceled_by_consumer": 9,
+        "canceled_on_delivery": 11,
+        "expired": 0,
+        "rejected": 0,
+        "fill_rate": 95.2,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 95.20% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-05",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-05",
+                "hour": 22,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-06",
+                "hour": 20,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 62990,
+        "orders_managed": 400,
+        "canceled_by_seller": 4,
+        "canceled_by_consumer": 6,
+        "canceled_on_delivery": 2,
+        "expired": 0,
+        "rejected": 0,
+        "fill_rate": 97.0,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 97.00% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 14,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 16,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 13,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 17,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 61458,
+        "orders_managed": 4822,
+        "canceled_by_seller": 59,
+        "canceled_by_consumer": 54,
+        "canceled_on_delivery": 55,
+        "expired": 7,
+        "rejected": 10,
+        "fill_rate": 96.2,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 96.20% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos! Atenção a Sexta-feira as 21h. Cancelamento é FALTA GRAVE.",
+        "reasons_cancel": [
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-04",
+                "hour": 21,
+                "quantity": 4
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 18,
+                "quantity": 3
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-04",
+                "hour": 19,
+                "quantity": 3
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 23,
+                "quantity": 2
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-06-30",
+                "hour": 22,
+                "quantity": 2
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-04",
+                "hour": 17,
+                "quantity": 2
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 15,
+                "quantity": 2
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-01",
+                "hour": 14,
+                "quantity": 2
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-01",
+                "hour": 12,
+                "quantity": 2
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 19,
+                "quantity": 2
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-06-30",
+                "hour": 11,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-03",
+                "hour": 22,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-02",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-03",
+                "hour": 11,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-06-30",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-01",
+                "hour": 10,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-06-30",
+                "hour": 15,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-04",
+                "hour": 14,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-04",
+                "hour": 16,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-04",
+                "hour": 11,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-04",
+                "hour": 13,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-04",
+                "hour": 0,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 0,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 13,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-04",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 0,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 9,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 17,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 23,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 79342,
+        "orders_managed": 2471,
+        "canceled_by_seller": 5,
+        "canceled_by_consumer": 27,
+        "canceled_on_delivery": 15,
+        "expired": 0,
+        "rejected": 14,
+        "fill_rate": 97.6,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 97.60% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos! Atenção ao Sábado as 21h. Cancelamento é FALTA GRAVE.",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 21,
+                "quantity": 2
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-06-30",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-01",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-01",
+                "hour": 12,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-02",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-02",
+                "hour": 22,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 11,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 0,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 14,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 17,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 18,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 69863,
+        "orders_managed": 417,
+        "canceled_by_seller": 2,
+        "canceled_by_consumer": 7,
+        "canceled_on_delivery": 2,
+        "expired": 0,
+        "rejected": 0,
+        "fill_rate": 97.4,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 97.40% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-06-30",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-01",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 16,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 17,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 22,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 29473,
+        "orders_managed": 2569,
+        "canceled_by_seller": 31,
+        "canceled_by_consumer": 57,
+        "canceled_on_delivery": 35,
+        "expired": 4,
+        "rejected": 11,
+        "fill_rate": 94.7,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 94.70% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos! Atenção ao Domingo as 15h e ao Domingo as 14h. Cancelamento é FALTA GRAVE.",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 15,
+                "quantity": 3
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 14,
+                "quantity": 3
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 13,
+                "quantity": 2
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 21,
+                "quantity": 2
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-06-30",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-01",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-01",
+                "hour": 17,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-01",
+                "hour": 13,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-06-30",
+                "hour": 23,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 15,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-03",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 10,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-03",
+                "hour": 22,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 14,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 12,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-04",
+                "hour": 22,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 12,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 16,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 22,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 23,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 69157,
+        "orders_managed": 386,
+        "canceled_by_seller": 2,
+        "canceled_by_consumer": 11,
+        "canceled_on_delivery": 2,
+        "expired": 1,
+        "rejected": 0,
+        "fill_rate": 95.9,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 95.90% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-06-30",
+                "hour": 18,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-06-30",
+                "hour": 22,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 13,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 16,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 17,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 20,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 58300,
+        "orders_managed": 492,
+        "canceled_by_seller": 4,
+        "canceled_by_consumer": 6,
+        "canceled_on_delivery": 9,
+        "expired": 0,
+        "rejected": 3,
+        "fill_rate": 95.6,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 95.60% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-01",
+                "hour": 20,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-02",
+                "hour": 13,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-04",
+                "hour": 16,
+                "quantity": 1
+            },
+            {
+                "type": "COURIER_CANCEL",
+                "reason": "CONSUMER_REFUSED_ORDER",
+                "date": "2025-07-05",
+                "hour": 22,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 87485,
+        "orders_managed": 631,
+        "canceled_by_seller": 1,
+        "canceled_by_consumer": 6,
+        "canceled_on_delivery": 0,
+        "expired": 0,
+        "rejected": 0,
+        "fill_rate": 98.9,
+        "status": "CONGRATS",
+        "message": "Olá, parceiro. Sua taxa de aceitação de pedidos está superior a 94%, nível adequado que demonstra o empenho em oferecer um ótimo serviço. Seu resultado semanal foi de 98.90% Continue seguindo as boas práticas de atendimento e evitando cancelamentos. Se tiver alguma dificuldade em concluir pedidos, entre em contato para encontrarmos uma solução juntos!",
+        "reasons_cancel": [
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-01",
+                "hour": 21,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-05",
+                "hour": 23,
+                "quantity": 1
+            },
+            {
+                "type": "USER_CANCEL",
+                "reason": "MODIFY ORDER CANCEL",
+                "date": "2025-07-06",
+                "hour": 16,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 4681,
+        "orders_managed": 494,
+        "canceled_by_seller": 18,
+        "canceled_by_consumer": 7,
+        "canceled_on_delivery": 8,
+        "expired": 0,
+        "rejected": 0,
+        "fill_rate": 93.4,
+        "status": "NORMAL",
+        "message": "Oi Parceiro, alguns pedidos da sua loja estão sendo cancelados com a justificativa de “Falta de Produtos”. Pensando em melhorar cada vez mais sua operação e para não perder pedidos ative no Seu.Zé apenas os itens que você realmente tem em estoque e em quantidade suficiente. Mantenha o estoque SEMPRE atualizado ao longo da operação. Confira a lista de produtos do seu portfólio ideal no Seu.Zé em: 'Estoque de Produtos' > 'Portfólio Ideal. Atenção a Terça-feira as 00h e a Quinta-feira as 21h. Cancelamento é FALTA GRAVE.",
+        "reasons_cancel": [
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-01",
+                "hour": 0,
+                "quantity": 2
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-03",
+                "hour": 21,
+                "quantity": 2
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-01",
+                "hour": 22,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-02",
+                "hour": 22,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-03",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-04",
+                "hour": 19,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 0,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-05",
+                "hour": 23,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 14,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 16,
+                "quantity": 1
+            },
+            {
+                "type": "PDV_CANCEL",
+                "reason": "STOCKOUT",
+                "date": "2025-07-06",
+                "hour": 21,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "seller_id": 35515,
+        "orders_managed": 110,
+        "canceled_by_seller": 4,
+        "canceled_by_consumer": 5,
+        "canceled_on_delivery": 0,
+        "expired": 0,
+        "rejected": 5,
+        "fill_rate": 87.3,
+        "status": "CRITICAL",
+        "message": "Muitos pedidos da sua loja estão sendo rejeitados com a justificativa de “Problemas na Operação”. Prepare o seu time para evitar essas situações, ative no Seu.Zé apenas os itens que você realmente tem em estoque e se organize sua equipe de motocas para evitar atrasos. Você pode entender quais são seus horários de picos com o relatório semanal que te enviamos. Atenção a Terça-feira as 21h e a Quarta-feira as 15h. Cancelamento é FALTA GRAVE.",
+        "reasons_cancel": [
+            {
+                "type": "PDV_REJECTED",
+                "reason": "OPER ISSUES",
+                "date": "2025-07-01",
+                "hour": 21,
+                "quantity": 2
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "OPER ISSUES",
+                "date": "2025-07-02",
+                "hour": 15,
+                "quantity": 2
+            },
+            {
+                "type": "PDV_REJECTED",
+                "reason": "OPER ISSUES",
+                "date": "2025-07-06",
+                "hour": 18,
+                "quantity": 1
+            }
+        ]
+    }   
+]
